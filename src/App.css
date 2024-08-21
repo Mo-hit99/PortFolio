@@ -6,7 +6,7 @@
 }
 .outer-container {
   position: relative;
-  height: 100vh;
+  height: 150vh;
   width: 100%;
   /* z-index: -1; */
   inset: 0;
@@ -182,7 +182,7 @@
 /* project section */
 .projects-container {
   max-width: 100%;
-  height: 170dvh;
+  height: 210vh;
   border: 1px solid rgb(0, 0, 0);
 }
 .project-card-layout-container {
@@ -250,7 +250,7 @@
 }
 /* skills section */
 .skills-container {
-  height: 100dvh;
+  height: 150vh;
 }
 .about-me-wrapper{
   display: flex;
