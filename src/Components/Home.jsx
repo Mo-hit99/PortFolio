@@ -25,7 +25,7 @@ export default function Home() {
               />
               <div className="card-data">
                 <span className="card-description">
-                  VanCouver Mountains, Canada
+                  VanCouv Mountains, Canada
                 </span>
                 <h2 className="card-title">the Great Path</h2>
                 <a href="#" className="card-button">
